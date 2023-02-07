@@ -14,6 +14,7 @@ namespace pluralsight_concourse_dotnetcore
     {
         public static void Main(string[] args)
         {
+            // Test changes
             CreateWebHostBuilder(args).Build().Run();
         }
 
